@@ -1,18 +1,16 @@
 ### Hi there 👋
 
-<!--
-**AlFaMoDz/AlFaMoDz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://komarev.com/ghpvc/?username=alfamodz&label=Profile%20views&color=0e75b6&style=flat" alt="alfamodz" />
 
-Here are some ideas to get you started:
+  <a href="https://app.daily.dev/AlFaMoDz" target="_blank" >
+    <img
+      src="/devcard.svg"
+      width="275"
+      alt="AlFaMoDz's Dev Card"
+		align="right"
+    />
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
-![GITHUB STATS](https://github-readme-stats.vercel.app/api?username=alfamodz&count_private=true&theme=onedark&show_icons=true)
+![Metrics](/github-metrics.svg)
