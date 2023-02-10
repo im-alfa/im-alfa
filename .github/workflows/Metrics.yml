@@ -9,13 +9,13 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: AlFaMoDz/metrics@master
+      - uses: im-alfa/metrics@master
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: AlFaMoDz
+          user: im-alfa
           template: classic
           base: header, activity, repositories
           config_timezone: Europe/Dublin
