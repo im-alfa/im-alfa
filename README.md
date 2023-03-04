@@ -11,8 +11,7 @@
 ![CMake](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23DA3434&message=CMake%EF%B8%B10.7%25)
 ![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B11.8%25)
 
-<img
-  src="/github-metrics.svg"
-  alt="AlFaMoDz's Dev Card"
-  align="center"
-/>
+  <img
+    src="/github-metrics.svg"
+    alt="alfa's stats"
+  />
