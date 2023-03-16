@@ -1,6 +1,5 @@
 name: Profile README
 on:
-  workflow_dispatch: {}
   schedule:
     - cron: '0 */12 * * *' # every 12 hours
   push:
@@ -18,7 +17,6 @@ jobs:
       uses: teoxoy/profile-readme-stats@v2
       with:
         token: ${{ secrets.USER_TOKEN }}
-        includeForks: false
     - name: Update README.md
       run: |
         if [[ "$(git status --porcelain)" != "" ]]; then
