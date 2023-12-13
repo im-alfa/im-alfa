@@ -16,6 +16,7 @@ jobs:
 
           # Options
           user: im-alfa
+          debug: yes
           template: classic
           base: header, activity, repositories
           config_timezone: Europe/Dublin
@@ -25,7 +26,7 @@ jobs:
           plugin_languages: yes
           plugin_languages_indepth: yes
           plugin_languages_ignored: html, css
-          plugin_languages_skipped: im-alfa/metrics
+          plugin_languages_skipped: im-alfa/metrics, im-alfa/passport-ivao
           plugin_achievements_threshold: C
           plugin_introduction_title: yes
           plugin_projects: yes
