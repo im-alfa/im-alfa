@@ -9,16 +9,18 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: im-alfa/metrics@master
+      - uses: lowlighter/metrics@v3.34
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
           user: im-alfa
-          debug: yes
+          debug: no
           template: classic
           base: header, activity, repositories
+          base_indepth: yes
+          commits_authoring: alex.altea@ivao.aero
           config_timezone: Europe/Dublin
           plugin_achievements: yes
           plugin_achievements_display: detailed
