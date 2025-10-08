@@ -22,14 +22,11 @@ jobs:
           base_indepth: yes
           commits_authoring: alex.altea@ivao.aero
           config_timezone: Europe/Dublin
-          plugin_achievements: yes
-          plugin_achievements_display: detailed
-          plugin_achievements_secrets: yes
+          plugin_achievements: no
           plugin_languages: yes
           plugin_languages_indepth: yes
           plugin_languages_ignored: html, css, javascript
           plugin_languages_skipped: im-alfa/metrics, im-alfa/passport-ivao
           plugin_achievements_threshold: C
           plugin_introduction_title: yes
-          plugin_projects: yes
-          plugin_projects_limit: 4
+          plugin_projects: no
