@@ -4,6 +4,6 @@
 
 <img
   src="/github-metrics.svg"
-  alt="AlFaMoDz's Dev Card"
+  alt="Dev Card"
   align="center"
 />
